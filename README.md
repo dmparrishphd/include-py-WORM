@@ -1,2 +1,1 @@
-# include-py-WORM
-Components of an alternative import system for Python
+[README](https://github.com/dmparrishphd/include-py-CORW/blob/main/README.md).
